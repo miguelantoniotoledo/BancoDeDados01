@@ -1,0 +1,58 @@
+Controle de Projetos
+
+A aplicação deverá controlar as etapas de projeto de uma empresa
+que oferece soluções em saneamento para empreendimentos e 
+órgãos públicos, como entidades e cidades.
+
+A primeira etapa é a aquisição da documentação junto ao cliente.
+Posteriormente é iniciado o processo de confecção do projeto,
+fazendo o levantamento das topografia do local e definindo
+as áreas importantes ao projeto, como o local onde será construido
+o reservatório.
+Posteriormente é feito um croqui, para análise geral dos aspectos,
+resolver problemas e propor soluções melhores.
+É feito um pré projeto, para análise junto ao cliente ou algum
+orgão interessado.
+Após as novas decisões, é feito o projeto executivo e levado
+á área de correção para apontamento de erros e discrepâncias.
+Corrigido, o memorial é iniciado, que é igualmente corrigido
+e finalizado.
+
+O projeto é composto por
+	arquivos .dwg
+	documentos relacionados
+	memorial descritivo
+
+quando o projeto deverá ficar pronto para protocolo
+	etapas de projeto concluidas
+	todos os documentos solicitados
+	memorial descritivo pronto
+
+etapas do projeto	
+	levantamento topografico
+	esboço
+	pre projeto - para apresentação ao cliente
+	projeto pronto para correção
+	projeto corrigido
+	confecção do memorial
+	correção memorial
+	memorial corrigido
+
+documentos necessarios
+	atestado de viabilidade tecnica e operacional - AVTO
+	documentos pessois do empreendedor
+	laudo
+
+documentos gerados
+	oficio de despacho
+	anotação de responsabilidade tecnica - ART
+	protocolo
+
+atores
+	projetista
+	empreendedor
+	gerente de projetos
+	secretária
+	
+	
+	
